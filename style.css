@@ -1,0 +1,70 @@
+
+/*  Start Carousel Sec  */
+.container{
+	margin-bottom:100px;
+}
+.carousel-item{
+	background-color:#fceae8;
+	padding:20px 40px;
+	border-radius:10px;
+}
+.col-md-7 h3{
+	color:#FF136F;
+}
+.submit{
+	background-image:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+	padding:12px 30px;
+	color:#FFF;
+	border:none;
+	border-radius:5px;
+}
+
+/*  End Carousel Sec  */
+
+
+.col-md-4{
+	color:#FFF;
+}
+.col-md-4 img{
+	width:100px;
+	height:100px;
+}
+.watch-sec{
+	background-color:orange;
+	padding:10px 20px;
+	border-radius:5px;
+}
+.bag-sec{
+	background-color:orchid;
+	padding:10px 20px;
+	border-radius:5px;
+}
+.shoes-sec{
+	background-color:blue;
+	padding:10px 20px;
+	border-radius:5px;
+}
+.card{
+	border:none;
+	border-radius:10px;
+	box-shadow:5px 5px 10px lightgray;
+}
+.card-footer{
+	border:none;
+	background-color:#FFF;
+	border-radius:10px;
+}
+.contact-area{
+	width:50%;
+	margin:auto;
+	background-color:#fceae8;
+	padding:30px;
+	border-radius:10px;
+}
+.contact-area input{
+	margin-bottom:10px;
+}
+.footer p{
+	margin-top:20px;
+	text-align:center; 
+}
